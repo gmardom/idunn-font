@@ -10,7 +10,8 @@ dist: IdunnMono.zip IdunnSans.zip IdunnSerif.zip
 
 clean:
 	rm -rf Iosevka
-	@echo rm -rf Idunn{Mono,Sans,Serif}{,.zip}
+	rm -rf IdunnMono IdunnSans IdunnSerif
+	rm -f IdunnMono.zip IdunnSans.zip IdunnSerif.zip
 
 Iosevka.zip:
 	curl -L "https://github.com/be5invis/Iosevka/archive/$(IOSEVKA_COMMIT).zip" -o Iosevka.zip
