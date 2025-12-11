@@ -8,6 +8,6 @@ You need to have [`nodejs`](https://nodejs.org) (≥ 18.0.0) and [`ttfautohint`]
 ```shell
 $ git clone --depth=1 https://github.com/gmardom/idunn-fonts
 $ cd idunn-fonts
-$ ./build.sh
+$ make
 ```
 
