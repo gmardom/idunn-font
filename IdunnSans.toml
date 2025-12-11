@@ -9,6 +9,13 @@ noLigation = true
 [buildPlans.IdunnSans.variants]
 inherits = "ss14"
 
+[buildPlans.IdunnSans.variants.design]
+one = "no-base"
+zero = "unslashed"
+paren = "normal"
+number-sign = "upright"
+question = "smooth"
+
 [buildPlans.IdunnSans.weights.Regular]
 shape = 400
 menu = 400
