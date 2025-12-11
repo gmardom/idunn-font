@@ -1,6 +1,6 @@
 # Idunn fonts
 
-This is my customized [Iosevka](https://github.com/be5invis/Iosevka) font set.
+This is my customized [Iosevka](https://github.com/be5invis/Iosevka) font set. The purpouse of this mod is to make fonts consistant on my desktop, and soon my [website](https://gmardom.github.io/).
 
 ## Building
 
