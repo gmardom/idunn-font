@@ -1,6 +1,6 @@
 [buildPlans.IdunnMono]
 family = "Idunn Mono"
-spacing = "normal"
+spacing = "fixed"
 serifs = "sans"
 noCvSs = true
 exportGlyphNames = false
@@ -8,6 +8,13 @@ noLigation = true
 
 [buildPlans.IdunnMono.variants]
 inherits = "ss14"
+
+[buildPlans.IdunnMono.variants.design]
+one = "no-base"
+zero = "slashed"
+paren = "normal"
+number-sign = "upright"
+question = "smooth"
 
 [buildPlans.IdunnMono.weights.Regular]
 shape = 400
